@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>WISSD Project</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="description" content="Course Project">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" type="image/x-icon" href="images/utc.ico" />
+<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
+<link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.carousel.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/owl.theme.default.css">
+<link rel="stylesheet" type="text/css" href="plugins/OwlCarousel2-2.2.1/animate.css">
+<link rel="stylesheet" type="text/css" href="styles/main_styles.css">
+<link rel="stylesheet" type="text/css" href="styles/responsive.css">
+<meta name="generator" content="Namo WebEditor v6.0">
+</head>
+<body>
+
+<div class="super_container">
+
+	<!-- Header -->
+
+	<header class="header d-flex flex-row">
+		<div class="header_content d-flex flex-row align-items-center">
+			<!-- Logo -->
+			<div class="logo_container">
+				<div class="logo">
+					<img src="images/logo.png" alt="">
+					<span>WISSD</span>
+				</div>
+			</div>
+
+			<!-- Main Navigation -->
+			<nav class="main_nav_container">
+				<div class="main_nav">
+					<ul class="main_nav_list">
+						<li class="main_nav_item"><a href="#">project</a></li>
+						<li class="main_nav_item"><a href="research.html">research</a></li>
+						<li class="main_nav_item"><a href="achievements.html">acheivements</a></li>
+						<li class="main_nav_item"><a href="news.html">news</a></li>
+						<li class="main_nav_item"><a href="contact.html">contact</a></li>
+					</ul>
+				</div>				
+			</nav>
+		</div>		
+		<div class="header_side d-flex flex-row justify-content-center align-items-center">
+			<img src="images/phone-call.svg" alt="">
+			<span>Wireless Sensing based System for Sleepy state Detection of car driver</span>
+		</div>
+
+		<!-- Hamburger -->
+		<div class="hamburger_container">
+			<i class="fas fa-bars trans_200"></i>
+		</div>
+
+	</header>
+	
+	<!-- Menu -->
+	<div class="menu_container menu_mm">
+
+		<!-- Menu Close Button -->
+		<div class="menu_close_container">
+			<div class="menu_close"></div>
+		</div>
+
+		<!-- Menu Items -->
+		<div class="menu_inner menu_mm">
+			<div class="menu menu_mm">
+				<ul class="menu_list menu_mm">
+					<li class="menu_item menu_mm"><a href="#">Project</a></li>
+                    <li class="menu_item menu_mm"><a href="research.html">Research</a></li>
+					<li class="menu_item menu_mm"><a href="achievements.html">Acheivements</a></li>
+					<li class="menu_item menu_mm"><a href="news.html">News</a></li>
+					<li class="menu_item menu_mm"><a href="contact.html">Contact</a></li>
+				</ul>
+
+				
+				</div>
+
+				<div class="menu_copyright menu_mm">www.utc.fr All rights reserved</div>
+			</div>
+
+		</div>
+
+	</div>
+
+	
+	<!-- Home -->
+
+	<div class="home">
+
+		<!-- Hero Slider -->
+		<div class="hero_slider_container">
+			<div class="hero_slider owl-carousel">
+				
+				<!-- Hero Slide -->
+				<div class="hero_slide">
+					<div class="hero_slide_background" style="background-image:url('images/slider_background_1.jpg');"></div>
+					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
+						<div class="hero_slide_content text-center">
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">&nbsp;</h1>
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">We Study</h1>
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"><span>Driver Drowsiness</span> </h1>
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">at the Wheel</h1>
+						</div>
+					</div>
+				</div>
+				
+				<!-- Hero Slide -->
+				<div class="hero_slide">
+					<div class="hero_slide_background" style="background-image:url('images/slider_background_2.jpg');"></div>
+					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
+						<div class="hero_slide_content text-center">
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">&nbsp;</h1>
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">&nbsp;</h1>
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"><font color="black">We propose</font> </h1>
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"><span>Wearable Solution</span></h1>
+                        <h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut"><font color="black">to Driver Drowsines&nbsp;Detection</font> </h1>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+
+			<div class="hero_slider_left hero_slider_nav trans_200"><span class="trans_200">prev</span></div>
+			<div class="hero_slider_right hero_slider_nav trans_200"><span class="trans_200">next</span></div>
+		</div>
+
+	</div>
+
+
+	<!-- Summary -->
+
+	<div class="popular page_section">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class="section_title text-center">
+						<h1>Summary</h1>
+					</div>
+				</div>
+			</div>
+
+			<div class="row course_boxes">
+				
+            <p>La somnolence et la fatigue cognitive sont des &eacute;tats de vigilance r&eacute;duite qui alt&egrave;rent les performances d'un conducteur ou toute personne ayant la charge de superviser des &eacute;quipements critiques (contr&ocirc;leurs de trafic a&eacute;rien, de centrales &eacute;lectriques thermique, nucl&eacute;aires, etc.). Elles repr&eacute;sentent une cause majeure des accidents mortels et induisent des pertes financi&egrave;res importantes. Ces faits alarmants ont incit&eacute;, ces 15 derni&egrave;res ann&eacute;es,  le d&eacute;veloppement des techniques automatis&eacute;es de surveillance du conducteur, comprenant plusieurs produits d&eacute;j&agrave; disponibles dans le commerce. Cependant, ces syst&egrave;mes pr&eacute;sentent de nombreux inconv&eacute;nients : ils sont bas&eacute;s soit sur des cam&eacute;ras vid&eacute;o pour superviser les yeux des conducteurs et/ou sur des r&eacute;seaux de capteurs filaires encombrants ; ils ne prennent pas en compte les param&egrave;tres psychologiques, et ils ne permettent pas de r&eacute;cup&eacute;rer et de stocker les donn&eacute;es physiologiques de mani&egrave;re s&eacute;curis&eacute;e pour mener des &eacute;tudes ult&eacute;rieures. Ce projet interdisciplinaire a pour objectif de d&eacute;velopper un syst&egrave;me de supervision en temps r&eacute;el permettant de d&eacute;tecter des &eacute;tats de somnolence et d'alerter le conducteur avant son endormissement. Ce syst&egrave;me sera bas&eacute; sur des capteurs communiquant par liaison sans fil et permettant de mesurer des param&egrave;tres physiologiques li&eacute;s au syst&egrave;me nerveux.  Ensuite,  les valeurs pr&eacute;lev&eacute;es sont achemin&eacute;es vers un &eacute;quipement (smartphone, station, etc.) pour traitement et prise de d&eacute;cision en prenant en compte l'&eacute;tat psychologique du conducteur. </p>         			      
+	
+
+<div class="card-title"><a href="#">Project description</a></div>     
+<ul>
+                <li style="color: rgb(130, 130, 130); font-family: inherit, arial, verdana, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; text-align: justify;"><strong>- Concept &amp; Problem Adressed</strong>: This project targets Driver Drowsiness Detection (DDD) problem&nbsp;which&nbsp;refers to in-vehicle systems that monitor driver and/or vehicle behaviour. These systems monitor the performance of the driver, and provide alerts or stimulation if the driver seems to be impaired. It warns drivers when they are getting drowsy.</li>
+
+                <li style="color: rgb(130, 130, 130); font-family: inherit, arial, verdana, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; text-align: justify;"><strong>- Solution family</strong>: Public Safety, Smart Vehicles and Infrastructure, Autonomous Driver Assistance Systems.</li>
+
+                <li style="color: rgb(130, 130, 130); font-family: inherit, arial, verdana, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; text-align: justify;"><strong>- Domain of application</strong>:&nbsp;long-distance travel, rural.</li>
+                <li style="color: rgb(130, 130, 130); font-family: inherit, arial, verdana, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; text-align: justify;"><strong>- Technology behind</strong>: Wearable Technology,&nbsp;Bio-Sensors, BCI.</li>
+
+                <li style="color: rgb(130, 130, 130); font-family: inherit, arial, verdana, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; text-align: justify;"><strong>- Status</strong>:&nbsp;Research,&nbsp;Investigation,&nbsp;Developpement.</li>
+</ul>
+		</div>		
+		</div>		
+	</div>
+
+	<!-- Motivation -->
+
+	<div class="popular page_section">
+		<div class="container">
+					<div class="section_title text-center">
+						<h1>Motivation</h1>
+					</div>
+
+			<div class="row course_boxes">
+				
+            <p>La fatigue cognitive, d&eacute;finie comme un &eacute;tat de vigilance mentale r&eacute;duite qui alt&egrave;re les performances&quot;, est une cause majeure des accidents de la route. L'administration de s&eacute;curit&eacute; routi&egrave;re d'autoroute Am&eacute;ricaine (NHTSA) a d&eacute;clar&eacute; que chaque ann&eacute;e la fatigue du conducteur a comme cons&eacute;quence environ 1 550 morts, 71.000 bless&eacute;s, et de 12,5 milliards de  en pertes mon&eacute;taires. La NHTSA estime  que 30 millions de conducteurs s'endorment, en conduisant chaque ann&eacute;e aboutissant &agrave; une moyenne d'environ un accident toutes les deux minutes &agrave; l’&eacute;chelle nationale. Selon la Fondation nationale du sommeil am&eacute;ricaine, 54% de conducteurs adultes d&eacute;clarent avoir conduit en &eacute;tat de somnolence et environ 28 % d'entre eux se sont en r&eacute;alit&eacute; endormis au volant. En 2010, l'association am&eacute;ricaine des automobilistes estime que 1 accident de circulation sur 6 ayant entra&icirc;n&eacute; la mort,  et 1 sur 8 entra&icirc;nant des blessures graves, qui &eacute;taient dus &agrave; la somnolence au volant. Les &eacute;tudes europ&eacute;ennes indiquent des statistiques similaires: en 2011, sur 3970 accidents mortels, 732 ont eu lieu sur des lignes droites et parmi ceux-ci, 85 % &eacute;taient li&eacute;s &agrave; la somnolence. 25-30% des accidents de conduite au Royaume-Uni sont associ&eacute;es &agrave; la somnolence. Environ 35% de conducteurs aux Pays-Bas et 70% en Espagne ont d&eacute;clar&eacute; s'&ecirc;tre endormi au volant. Des occurrences catastrophiques similaires ont &eacute;t&eacute; rapport&eacute;es dans d'autres domaines de transport. Par exemple, l'op&eacute;ration de pilotage en &eacute;tat de fatigue a &eacute;t&eacute; d&eacute;termin&eacute;e causale dans plusieurs grands crashs d'avion (par exemple, Colgan Air Vole 3407, 2010). La fondation Am&eacute;ricaine du sommeil estime qu'un pilote de l'air sur cinq, un op&eacute;rateur de train sur six et un sur sept chauffeurs de camion provoquent  des accidents en raison de la somnolence. Ces faits alarmants ont incit&eacute; ces 15 derni&egrave;res ann&eacute;es le d&eacute;veloppement de techniques automatis&eacute;es de surveillance de la fatigue de conducteurs.  Plusieurs produits sont d’ores et d&eacute;j&agrave; disponibles dans le commerce (voir le tableau 1). Selon les auteurs de l'&eacute;valuation de la technique de gestion de fatigue de conducteurs, un syst&egrave;me &laquo;id&eacute;al&raquo; devrait pouvoir, sur une base individuelle: (i) pr&eacute;dire la fatigue en fonction des facteurs le causant, (ii) surveiller la vigilance dans des environnements en temps r&eacute;el, et (iii) intervenir lorsque les d&eacute;ficits potentiels sont identifi&eacute;s. En outre, le syst&egrave;me devrait avoir une fiabilit&eacute; extr&ecirc;mement &eacute;lev&eacute;e. Cependant, peu de syst&egrave;mes existants satisfont &agrave; toutes ces exigences. Ainsi, l’objectif principal de notre projet est d’&ecirc;tre force de proposition pour le d&eacute;veloppement d'un syst&egrave;me optimal de d&eacute;tection en temps r&eacute;el de la fatigue durant la conduite de v&eacute;hicule. De plus, nous  offrirons la possibilit&eacute; de sauvegarder les informations physiologiques et psychologiques dans un cloud afin de les utiliser pour des travaux de recherche pour une meilleure compr&eacute;hension des  relations entre ces variables, et l’identification de types de conducteurs.  </p>         			      
+	
+		</div>		
+		</div>		
+	</div>
+
+	<!-- Impacts -->
+
+	<div class="popular page_section">
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class="section_title text-center">
+						<h1>Expected Impact</h1>
+					</div>
+				</div>
+			</div>
+
+			<div class="row course_boxes">
+				
+            <p>le pr&eacute;sent projet a pour objectif principal l'&eacute;tude, la conception et le d&eacute;veloppement d'une solution innovante, robuste pour la d&eacute;tection d'&eacute;tats de somnolence de conducteurs afin d'&eacute;viter des accidents mortels. Cette solution, bas&eacute;e sur des capteurs sans fils, permet de mesurer des param&egrave;tres physiologiques qui seront transf&eacute;r&eacute;s pour prise de d&eacute;cision sur une unit&eacute; de stockage et de traitement.  La mise en œuvre d’un r&eacute;seau de capteurs sans fils (RCSF) dans le cadre du pr&eacute;sent projet implique, en amont, une analyse destin&eacute;e &agrave; identifier les param&egrave;tres les plus pertinents &agrave; mesurer. Il s’agira alors aussi d’identifier les principales contraintes impos&eacute;es aux capteurs &agrave; utiliser dans le cadre de ces dispositifs de mesure. La nature des param&egrave;tres &agrave; mesurer aura un impact sur le positionnement des capteurs, leur utilisation, la conception des protocoles de communication qui devront tenir compte de l’adaptation au facteur d’&eacute;chelle, la tol&eacute;rance aux pannes et la s&eacute;curit&eacute; des donn&eacute;es. Notre solution permet aussi le stockage s&eacute;curis&eacute; des donn&eacute;es sur un Cloud. Ces donn&eacute;es seront partag&eacute;es de n'importe o&ugrave; et n'importe quand par divers acteurs (autorit&eacute;s de s&eacute;curit&eacute; routi&egrave;re, responsables d'entreprises de transport, chercheurs, etc.) tout en mettant diff&eacute;rents droits d'acc&egrave;s aux donn&eacute;es r&eacute;colt&eacute;es. Ce projet peut &ecirc;tre vu comme une base de donn&eacute;es distribu&eacute;e et mobile mettant &agrave; disposition de la communaut&eacute; scientifique des donn&eacute;es difficiles &agrave; obtenir pour la conduite de recherche dans le domaine de la sant&eacute; en g&eacute;n&eacute;ral, neurologie et sommeil en particulier.
+			
+</p>
+            <p>De plus, les facteurs psychologiques du conducteur seront &eacute;tudi&eacute;s afin de rep&eacute;rer des variables de pr&eacute;disposition &agrave; la conduite en &eacute;tat de fatigue ou de somnolence.  Parmi ces facteurs, nous souhaitons &eacute;tudier les processus cognitifs tels que l’attention, le contr&ocirc;le, la motivation et la conscience subjective de l’&eacute;tat du conducteur. Ces variables seront analys&eacute;es avec les contextes et conditions de conduite (expertise, repr&eacute;sentations, trajets). En effet, diff&eacute;rents questionnaires seront propos&eacute;s aux participants, afin de relever ses habitudes et certaines dimensions de sa personnalit&eacute; : questionnaires m&eacute;dicaux notant particuli&egrave;rement des ant&eacute;c&eacute;dents neurologiques, psychiatriques, questionnaire d’hygi&egrave;ne de vie et du sommeil, de consommation de substances ayant un effet sur la cognition (m&eacute;dicaments, alcool, autre drogue), questionnaire d’impulsivit&eacute; et recherche de sensation, questionnaire d’estimation de la fatigue et de la somnolence. De plus, des &eacute;valuations des capacit&eacute;s de concentration, d’attention soutenue et de contr&ocirc;le seront effectu&eacute;es &agrave; l’aide de tests standardis&eacute;s. 
+
+</p>
+            <p>Ces donn&eacute;es personnelles et cognitives seront &eacute;tudi&eacute;es en relations avec les donn&eacute;es physiologiques relev&eacute;es. L’un des objectifs de notre &eacute;tude est d’&eacute;tablir des mesures entre les contr&ocirc;les subjectifs des &eacute;tats de fatigue et de somnolence (&eacute;chelle d’Epworth). En effet, la m&eacute;sestimation de l’&eacute;tat de fatigue de la personne peut conduire &agrave; des prises de risque. Ainsi, cette approche se situe &agrave; un niveau plus individuel afin de d&eacute;terminer les tendances d’un conducteur &agrave; prendre des risques. Une des questions est celle de la m&eacute;sestimation de la plainte de fatigue et de ces cons&eacute;quences dans les soci&eacute;t&eacute;s contemporaines. Alors que les sociologues soulignent l’acc&eacute;l&eacute;ration des rythmes de vie et les probl&egrave;mes de privation de sommeil inh&eacute;rents &agrave; la soci&eacute;t&eacute; moderne, la plainte de fatigue est n&eacute;anmoins peu prise en compte. Elle peut cependant &ecirc;tre &agrave; l’origine de nombreux troubles fonctionnels (c&eacute;phal&eacute;es, douleurs, crampes…) et donner lieu &agrave; des comportements &agrave; risque. L’&eacute;valuation personnalis&eacute;e et contextualis&eacute;e de la prise de risque permettrait de la mettre en relation les &eacute;v&eacute;nements initiateurs des accidents. De plus, elle pourrait contribuer &agrave; appr&eacute;cier l’impact des aides &agrave; la conduite sur le comportement du conducteur. 
+
+</p>
+            <p>Cette &eacute;tude peut &ecirc;tre appliqu&eacute;e en accidentologie dans le cadre notamment des &eacute;tudes d&eacute;taill&eacute;es d’accidents. Elle peut &ecirc;tre &eacute;galement utilis&eacute;e dans les &eacute;tudes sur simulateur ou dans le cadre de recherche sur la mod&eacute;lisation des comportements des conducteurs permettant d’appr&eacute;hender de fa&ccedil;on plus fine leurs comportements au volant. Cette &eacute;tude est utile pour mieux cibler des campagnes de pr&eacute;vention, pour les futurs d&eacute;veloppements d’aide &agrave; la conduite et pour le partage de conduite des futurs v&eacute;hicules autonomes.   
+
+</p>
+            <p>C’est la base du partenariat mis en œuvre entre le laboratoire Heudiasyc (UTC), l'UMR Inserm 1105 Groupe de Recherches sur l'Analyse Multimodale de la Fonction C&eacute;r&eacute;brale,  le CRP-CPO EA7273 (UPJV), et l'&eacute;quipe UPSV du CHU d'Amiens).</p>
+            <p><img src="images/UTC-logo.png" width="323" height="156" border="0"><img src="images/Europ-logo.png" width="349" height="150" border="0"><img src="images/Region-logo.png" width="428" height="116" border="0"> 
+ </p>
+	
+		</div>		
+		</div>		
+
+
+	<div class="popular page_section">
+		<div class="container">
+					<div class="section_title text-center">
+						<h1>References</h1>
+					</div>
+            <ul style="color: rgb(130, 130, 130); font-family: inherit, arial, verdana, sans-serif; font-size: 12.8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-style: initial; text-decoration-color: initial; text-align: justify;">
+                <li><a target="_blank" href="http://www.eimpact.info/download/eIMPACT_D4_v2.0.pdf" style="text-decoration: none; color: rgb(63, 64, 62); outline: none; line-height: 24px; border-bottom: 1px dotted; font-weight: bold;">Socio-economic Impact Assessment of Stand-alone and Co-operative Intelligent Vehicle Safety Systems (IVSS) in Europe</a></li>
+                <li><a href="http://conservancy.umn.edu/bitstream/97650/1/CTS%2009-15.pdf" target="_blank" style="text-decoration: none; color: rgb(63, 64, 62); outline: none; line-height: 24px; border-bottom: 1px dotted; font-weight: bold;">Real-time Nonintrusive Detection of Driver Drowsiness</a><span>&nbsp;</span>by Xun Yu, Intelligent Transportation Systems Institute &nbsp;Center for Transportation Studies &nbsp;University of Minnesota, 2009.</li>
+                <li><a target="_blank" href="http://www.ee.ryerson.ca/~phiscock/thesis/drowsy-detector/drowsy-detector.pdf" style="text-decoration: none; color: rgb(63, 64, 62); outline: none; line-height: 24px; border-bottom: 1px dotted; font-weight: bold;">Drowsy Driver Detection System</a><span>&nbsp;</span>by Neeta Parmar and Peter Hiscocks, department of Electrical and Computer Engineering, Ryerson University, 2002.</li>
+                <li><a target="_blank" href="http://ec.europa.eu/transport/road_safety/specialist/knowledge/fatique/countermeasures/in_vehicle_detection_and_warning_devices.htm" style="text-decoration: none; color: rgb(63, 64, 62); outline: none; line-height: 24px; border-bottom: 1px dotted; font-weight: bold;">Road Safety, European Commission</a></li>
+                <li><a target="_blank" href="http://www.atttraining.com/wordpress/?p=1362" style="text-decoration: none; color: rgb(63, 64, 62); outline: none; line-height: 24px; border-bottom: 1px dotted; font-weight: bold;">Bosch Driver Drowsiness Detection</a></li>
+                <li><a target="_blank" href="http://www.euroncap.com/rewards/ford_driver_alert.aspx" style="text-decoration: none; color: rgb(63, 64, 62); outline: none; line-height: 24px; border-bottom: 1px dotted; font-weight: bold;">Ford Driver Alert</a></li>
+                <li><a href="http://media.daimler.com/dcmedia/0-921-658892-1-1147698-1-0-0-1147922-0-1-11702-0-0-1-0-0-0-0-0.html?TS=1266506682902" target="_blank" style="text-decoration: none; color: rgb(63, 64, 62); outline: none; line-height: 24px; border-bottom: 1px dotted; font-weight: bold;">Attention Assist Daimler System</a></li>
+            </ul>
+
+		</div>
+
+	</div>
+
+
+	<!-- Footer -->
+
+	<footer class="footer">
+		<div class="container">
+			
+			<!-- Newsletter -->
+
+			<div class="newsletter">
+				<div class="row">
+					<div class="col">
+						<div class="section_title text-center">
+							<h1>Subscribe to newsletter</h1>
+						</div>
+					</div>
+				</div>
+
+				<div class="row">
+					<div class="col text-center">
+						<div class="newsletter_form_container mx-auto">
+							<form action="post">
+								<div class="newsletter_form d-flex flex-md-row flex-column flex-xs-column align-items-center justify-content-center">
+									<input id="newsletter_email" class="newsletter_email" type="email" placeholder="Email Address" required="required" data-error="Valid email is required.">
+									<button id="newsletter_submit" type="submit" class="newsletter_submit_btn trans_300" value="Submit">Subscribe</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+			<!-- Footer Content -->
+
+			<div class="footer_content">
+				<div class="row">
+
+
+            <!-- Footer Copyright -->
+
+				</div>
+			</div>
+
+
+			<div class="footer_bar d-flex flex-column flex-sm-row align-items-center">
+				<div class="footer_copyright">
+                 <span>Copyright &copy; <script>document.write(new Date().getFullYear()); </script>
+                   All rights reserved | Universit&eacute; de Technologie de Compi&egrave;gne. </span>
+				</div>
+				<div class="footer_social ml-sm-auto">
+					<ul class="menu_social">
+						<li class="menu_social_item"><a href="#"><i class="fab fa-pinterest"></i></a></li>
+						<li class="menu_social_item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+						<li class="menu_social_item"><a href="#"><i class="fab fa-instagram"></i></a></li>
+						<li class="menu_social_item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+						<li class="menu_social_item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+					</ul>
+				</div>
+			</div>
+
+		</div>
+	</footer>
+
+</div>
+
+<script src="js/jquery-3.2.1.min.js"></script>
+<script src="styles/bootstrap4/popper.js"></script>
+<script src="styles/bootstrap4/bootstrap.min.js"></script>
+<script src="plugins/greensock/TweenMax.min.js"></script>
+<script src="plugins/greensock/TimelineMax.min.js"></script>
+<script src="plugins/scrollmagic/ScrollMagic.min.js"></script>
+<script src="plugins/greensock/animation.gsap.min.js"></script>
+<script src="plugins/greensock/ScrollToPlugin.min.js"></script>
+<script src="plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
+<script src="plugins/scrollTo/jquery.scrollTo.min.js"></script>
+<script src="plugins/easing/easing.js"></script>
+<script src="js/custom.js"></script>
+
+</body>
+</html>
